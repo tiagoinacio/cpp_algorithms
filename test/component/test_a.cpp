@@ -1,6 +1,6 @@
-#include <project_name/component/component_header.hpp>
+#include <cpp_algorithms/component/component_header.hpp>
 
-using namespace project_name;
+using namespace cpp_algorithms;
 
 int main() {
   component::B b{0, 0};
